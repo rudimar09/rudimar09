@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![](https://media1.tenor.com/m/LsYPAE9JiP8AAAAd/rolando-ronaldo.gif)
 **rudimar09/rudimar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
